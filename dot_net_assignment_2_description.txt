@@ -1,0 +1,14 @@
+This inventory management system features functionalities like adding, displaying, finding, updating, and deleting items, all accessible through a console interface. It efficiently manages inventory tasks, offering a user-friendly experience with flexible options for updating items. Its error handling ensures data integrity and provides informative feedback. Overall, it streamlines inventory processes, enhances control, and simplifies management tasks for users. 
+Key Features: 
+ 
+1. Add Item: Users can add new items to the inventory by providing details such as ID, name, price, and quantity through the console interface. 
+
+2. Display All Items: Users can view the complete list of items in the inventory, including their ID, name, price, and quantity.  
+
+3. Find Item by ID: Users can search for a specific item in the inventory by entering its unique ID. 
+
+4. Update Item: Users have the flexibility to update item details individually (name, price, quantity) or all fields at once, including the item's ID.  
+
+5. Delete Item: Users can remove an item from the inventory by specifying its ID. 
+ 
+ 
